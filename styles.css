@@ -1,0 +1,16 @@
+#play,
+#pause,
+#next,
+#prev {
+  display: inline-block;
+  color: grey;
+  font-size: 2rem;
+  margin: 1rem;
+}
+#galery img.hidden {
+  display: none;
+}
+img {
+  max-height: 350px;
+}
+
